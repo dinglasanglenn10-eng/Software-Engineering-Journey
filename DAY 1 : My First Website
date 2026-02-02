@@ -1,0 +1,16 @@
+<DOCTYPE html>
+  <html>
+    <head>
+      <title>My First Website</title>
+    </head>
+    <body>
+      <h1>Hello, I'm Glenn</h1>
+      <p>I'm learning software engineering</p>
+      <ul>
+        <li>Become a software engineer</li>
+        <li>Work remotley</li>
+        <li>Build real project</li>
+      </ul> 
+    </body>
+  </html>
+</DOCTYPE>
